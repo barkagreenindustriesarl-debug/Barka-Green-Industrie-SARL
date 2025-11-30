@@ -1,1 +1,1 @@
-Remplacez les images dans assets/images par vos photos produit. Le fichier index.html est la page principale.
+Remplacez les fichiers SVG dans assets/images par vos vraies photos. Le fichier index.html est la page principale.
